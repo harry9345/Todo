@@ -1,0 +1,13 @@
+.section {
+  text-align: center;
+  align-items: center;
+}
+.container {
+  display: block;
+}
+
+.inputBox {
+  text-align: left;
+  height: 30px;
+  width: 200px;
+}
